@@ -9,6 +9,6 @@
       Title="AddEditPage" MinHeight="150" MinWidth="300" FontFamily=" Century Gothic">
 
     <Grid>
-        <TextBlock Text="Hello" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30"></TextBlock>
+        
     </Grid>
 </Page>
